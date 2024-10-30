@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Frameworks, courses, API and AI**
 
-- 💬 Ask me about **java ,python ,MERN ,AWS**
+- 💬 Ask me about **java ,MERN ,AWS**
 
 - 📫 How to reach me **disha.choubey2021@vitbhopal.ac.in**
 
