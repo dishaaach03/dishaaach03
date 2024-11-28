@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, Myself Disha Choubey</h1>
-<h3 align="center">A Third-year B.Tech student majoring in Computer Science and Engineering.</h3>
+<h3 align="center">A B.Tech student majoring in Computer Science and Engineering.</h3>
 
 - 🌱 I’m currently learning **Frameworks, courses, API and AI**
 
