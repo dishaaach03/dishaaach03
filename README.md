@@ -18,6 +18,10 @@
 <p align="left">
 <a href="https://linkedin.com/in/disha choubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="disha choubey" height="30" width="40" /></a>
 <a href="https://instagram.com/dishaaach03._._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dishaaach03._._" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Disha_Choubey/" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40" />
+</a>
+
 
 </p>
 
